@@ -67,7 +67,7 @@ https://www.linkedin.com/in/someoneelse/
 ```
 
 When the Chrome page closes, it means the program ended.
-You can find inside the `LinkedInScraping` folder the extracted data in the results file `results_profiles.xlsx`.
+You can find inside the `Linkedin_Scrapper` folder the extracted data in the results file `results_profiles.xlsx`.
 The filename will get concatenated to the current timestamp if the configuration was set as suggested.
 
 
