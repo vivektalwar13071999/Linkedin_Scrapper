@@ -32,7 +32,7 @@ In any time in the future you can easily run again the configuration to apply ch
 
 There are two ways you can run the code: headless execution and normal one.
 
-In both cases, be careful (especially when you scrap a lot of profiles) because your computer may enter sleep mode. In sleep mode the scraping could not work. For MacOS I suggest [Amphetamine](https://apps.apple.com/it/app/amphetamine/id937984704?mt=12).
+In both cases, be careful (especially when you scrap a lot of profiles) because your computer may enter sleep mode. In sleep mode the scraping could not work. 
 
 ### Normal execution
 In this mode the script will do scraping opening a real Chrome window.
@@ -46,7 +46,7 @@ To run in normal mode:
 python do_scraping.py
 ```
 
-### Headless execution
+### Headless execution(Not working curently)
 In this mode the script will do scraping without opening a real Chrome window.
 
 **Pros:** The scraping process is distributed into many threads to speed up to 4 times the performance. Moreover, in this way you can keep on doing your regular business on your computer as you don't have to keep the focus on any specific window.
@@ -82,10 +82,7 @@ Here some tips:
 * The profile URL should always end with `/`
 * Open a browser window and navigate to such URL. Wait for the page to load. Is the URL currently in the browser navigation bar the same as the one you initially inserted? If not, you should insert in the input file the one you see now at the navigation bar.
 
-## Customizing
 
-You can customize the configurations easily re-running `configurator.py`.
+## Legality of Scrapping
 
-You can also customize the code in many ways:
-* The easy one is changing the order how the data is inserted in the excel file, or renaming the excel file headers.
-* The harder one is to do scraping of additional data: have a look at the Acknowledgments down here or feel free to reach me out to propose new code.
+https://www.forbes.com/sites/emmawoollacott/2019/09/10/linkedin-data-scraping-ruled-legal/#14d7dbd91b54
