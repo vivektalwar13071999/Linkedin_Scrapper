@@ -2,9 +2,8 @@
 
 Create an Excel file containing personal data and last job position of specified people.
 
-Scraping can be currently done only providing the LinkedIn profile url of the target person. If you don't have yet the LinkedIn profile urls, see below how to "Automatically get LinkedIn Profiles Urls".
+Scraping can be currently done only providing the LinkedIn profile url of the target person. If you don't have yet the LinkedIn profile urls
 
-Doubts? Reach me out on [LinkedIn](https://www.linkedin.com/in/federicohaag/).
 
 ## Prerequisites
 
@@ -90,11 +89,3 @@ You can customize the configurations easily re-running `configurator.py`.
 You can also customize the code in many ways:
 * The easy one is changing the order how the data is inserted in the excel file, or renaming the excel file headers.
 * The harder one is to do scraping of additional data: have a look at the Acknowledgments down here or feel free to reach me out to propose new code.
-
-## Authors
-
-* **Federico Haag** - [LinkedIn](https://www.linkedin.com/in/federicohaag/) - [Medium](https://medium.com/@federicohaag)
-
-## Disclaimer
-
-The repository is intended to be used as a reference to learn more on Python and to perform scraping for personal usage. Every country has different and special regulations on usage of personal information, so I strongly recommend you to check your national legislation before using / sharing / selling / elaborating the scraped information. I decline any responsibility on the usage of scraped information. Cloning this repository and executing the included scripts you declare and confirm the responsibility of the scraped data usage is totally up on you.
