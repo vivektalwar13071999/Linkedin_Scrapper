@@ -62,7 +62,7 @@ python do_scraping.py HEADLESS
 
 LinkedIn URLs:
 ```
-https://www.linkedin.com/in/federicohaag/
+https://www.linkedin.com/in/vivek-talwar-238578138/
 https://www.linkedin.com/in/someoneelse/
 ```
 
@@ -83,6 +83,6 @@ Here some tips:
 * Open a browser window and navigate to such URL. Wait for the page to load. Is the URL currently in the browser navigation bar the same as the one you initially inserted? If not, you should insert in the input file the one you see now at the navigation bar.
 
 
-## Legality of Scrapping
+## Legality of Scrapping on Linkedin
 
 https://www.forbes.com/sites/emmawoollacott/2019/09/10/linkedin-data-scraping-ruled-legal/#14d7dbd91b54
