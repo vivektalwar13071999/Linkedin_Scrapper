@@ -2,7 +2,7 @@
 
 Create an Excel file containing personal data and last job position of specified people.
 
-Scraping can be currently done only providing the LinkedIn profile url of the target person. If you don't have yet the LinkedIn profile urls
+Scraping can be currently done only providing the LinkedIn profile url of the target person. 
 
 
 ## Prerequisites
@@ -17,12 +17,12 @@ You must have installed in your machine:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Download the whole repository.
-2. Place the directory `LinkedinScraping` in your python environment.
-3. Navigate to the directory `LinkedinScraping` and run the following:
+2. Place the directory `Linkedin_Scrapper` in your python environment.
+3. Navigate to the directory `Linkedin_Scrapper` and run the following:
 ```
 pip install -r requirements.txt
 ```
-4. Run `LinkedinScraping\configurator.py` following the prompted instructions.
+4. Run `Linkedin_Scrapper\configurator.py` following the prompted instructions.
  
 
 If this is the first time, choose the suggested configuration.
